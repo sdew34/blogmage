@@ -1,0 +1,2 @@
+# blogmage
+save blog images
